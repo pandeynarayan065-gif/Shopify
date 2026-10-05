@@ -13,7 +13,7 @@ Fees used below: **₹99** to re-ship, **₹100** deducted from refunds on retur
 
 **Shipping Policy**
 
-We aim to process and ship all orders as quickly as possible. Shipping is free on all orders across India. All orders are prepaid; Cash on Delivery is not available.
+At Spraymax, we aim to process and ship all orders as quickly as possible. Shipping is free on all orders across India. All orders are prepaid; Cash on Delivery is not available.
 
 **1. Order Processing**
 Orders are usually processed within 1–3 business days after confirmation. Once dispatched, tracking details will be shared via email or SMS.
@@ -21,7 +21,19 @@ Orders are usually processed within 1–3 business days after confirmation. Once
 **2. Shipping Timelines**
 Orders are typically delivered within 7–14 business days from the date of dispatch. Delivery timelines may vary depending on location, courier partner and other external factors.
 
-**3. Your Shipping Address**
+**3. Delays**
+While we make every effort to deliver your order within the estimated timeframe, delays may occur due to reasons beyond our control, including but not limited to:
+- Courier or logistics delays
+- Weather conditions
+- High order volumes
+- Regional or operational restrictions
+
+Spraymax shall not be held responsible for delays caused by such circumstances.
+
+**4. Delivery Issues**
+If your order has not arrived within a reasonable time after dispatch, please contact us and we will assist in tracking your shipment.
+
+**5. Address Accuracy**
 You are fully responsible for entering a complete and correct shipping address and a working phone number at checkout. A complete address includes:
 - House / flat number and building name
 - Street, area and landmark
@@ -29,10 +41,10 @@ You are fully responsible for entering a complete and correct shipping address a
 
 We ship every order exactly as the address was entered at checkout. We do not edit, guess or complete addresses on your behalf.
 
-**4. Address Changes**
+**6. Address Changes**
 Address changes are accepted only before your order is dispatched, and only through email at [support@spraymax.in] or WhatsApp at [+91 XXXXX XXXXX]. Once an order has been dispatched, the address cannot be changed for any reason.
 
-**5. Delays Due to Address or Phone Issues**
+**7. Delays or Non-Delivery Due to Address or Phone Issues**
 Our delivery timelines apply only to orders with a complete and correct address. Spraymax is not responsible for any delay, failed delivery or non-delivery caused by:
 - An incomplete or incorrect address
 - A phone number that is wrong, switched off or not answered
@@ -41,23 +53,20 @@ Our delivery timelines apply only to orders with a complete and correct address.
 
 Such orders are not eligible for compensation for the delay.
 
-**6. Returned Parcels (Undelivered Orders)**
-If the courier returns your parcel to us for any of the reasons in point 5, you may choose only one of the following:
+**8. Returned Parcels (Undelivered Orders)**
+If the courier returns your parcel to us for any of the reasons in point 7, you may choose only one of the following:
 - **(a) Re-ship:** we will send the order again after you pay a re-shipping fee of ₹99, or
 - **(b) Refund:** we will refund the amount you paid **minus ₹100** to cover forward and return shipping costs.
 
 You must tell us your choice within 7 days of our message. If we don't hear from you within 7 days, option (b) will be applied automatically. Refunds are processed within 7 business days to the original payment method.
 
-**7. Delivered Orders**
+**9. Delivered Orders**
 An order marked as "Delivered" by the courier to the address entered at checkout is considered delivered. If you have not received an order marked as delivered, you must contact us within 48 hours of the delivery update. We will raise the issue with the courier, but we cannot refund or replace orders delivered to the address you provided.
 
-**8. Other Delays**
-Delays may also occur for reasons beyond our control, including courier or logistics delays, weather, high order volumes and regional or operational restrictions. Spraymax is not responsible for delays caused by such circumstances. If your order has not arrived within a reasonable time after dispatch, please contact us and we will assist in tracking your shipment.
-
-**9. Cancellations**
+**10. Cancellations**
 Orders can be cancelled free of charge within 3 hours of ordering. After that, a ₹50 cancellation charge applies, and once dispatched, orders cannot be cancelled. See our Refund Policy for full details.
 
-**10. Contact**
+**11. Contact**
 For any shipping questions, contact us at [support@spraymax.in] or WhatsApp [+91 XXXXX XXXXX].
 
 ---
@@ -87,7 +96,7 @@ Once your claim is verified, we will send a replacement or issue a refund, at ou
 If the spray nozzle does not work, first try this: remove the spray head, rinse it under warm water for 30 seconds, then refit it. If it still doesn't work within **15 days of delivery**, contact us with a short video of the issue. Once verified, we will send a replacement nozzle or bottle.
 
 **4. Undelivered / Returned Orders**
-If an order is returned to us because of an incomplete or incorrect address, an unreachable phone number, the customer being unavailable or a refused delivery, the order is handled as per point 6 of our Shipping Policy: re-ship for ₹99, or a refund minus ₹100 for shipping costs.
+If an order is returned to us because of an incomplete or incorrect address, an unreachable phone number, the customer being unavailable or a refused delivery, the order is handled as per point 8 of our Shipping Policy: re-ship for ₹99, or a refund minus ₹100 for shipping costs.
 
 **5. Cancellations**
 To cancel, contact us by email at [support@spraymax.in] or WhatsApp at [+91 XXXXX XXXXX]. The time of your message is the time of the request.
@@ -122,4 +131,4 @@ Don't argue. Reply once with the matching policy point and a link, then wait for
 - Shipping Policy: https://spraymax.in/policies/shipping-policy
 - Refund Policy: https://spraymax.in/policies/refund-policy
 
-Example: *"Hi, as per point 6 of our Shipping Policy (link), your parcel was returned due to an incomplete address. You can choose re-ship for ₹99 or a refund of ₹[amount − 100]. Please reply within 7 days."*
+Example: *"Hi, as per point 8 of our Shipping Policy (link), your parcel was returned due to an incomplete address. You can choose re-ship for ₹99 or a refund of ₹[amount − 100]. Please reply within 7 days."*
