@@ -1,116 +1,163 @@
 # Spraymax Sea Salt Spray: listing guide
 
-Set up the 1, 2 and 3 bottle packs as **options on your existing product**, not as new products.
-Your 14 Judge.me reviews and your sales history stay attached to the product, and every pack shows all the reviews.
+You'll end up with **3 separate products**:
 
-Everything below is done in **Shopify admin → Products → Spraymax Sea Salt Spray - 100 mL**.
+| Product | Price | Compare-at (= MRP) | Description file |
+|---|---|---|---|
+| Spraymax Himalayan Sea Salt Spray – 100 mL *(existing)* | ₹449 | ₹600 | `description.html` |
+| Spraymax Himalayan Sea Salt Spray – Pack of 2 *(new)* | ₹799 | ₹1,200 | `description-pack-of-2.html` |
+| Spraymax Himalayan Sea Salt Spray – Pack of 3 *(new)* | ₹999 | ₹1,800 | `description-pack-of-3.html` |
+
+The compare-at price is the label MRP (₹600 per bottle). Never sell above MRP.
+
+The descriptions already link to each other by URL handle. **Use the handles below exactly**, or those links will break.
 
 ---
 
-## Step 1: Title and description
+## Step 1: Update the existing single bottle
+
+**Products → Spraymax Sea Salt Spray - 100 mL**
 
 | Field | Value |
 |---|---|
 | **Title** | `Spraymax Himalayan Sea Salt Spray – 100 mL` |
-| **Description** | Click the `<>` (Show HTML) button, then paste everything from `description.html` after the comment block at the top. Fill in every `[SQUARE BRACKET]` first. |
+| **Description** | Click `<>` (Show HTML), select all, then paste `description.html` |
+| **Price / Compare-at** | 449 / 600 (no change) |
 | **Product type** | `Hair Styling Spray` |
-| **Tags** | `sea salt spray, hair volume, hair texture, men's grooming, bestseller` |
+| **Tags** | `sea salt spray, hair volume, hair texture, single` |
 
----
-
-## Step 2: Add the pack options
-
-1. Scroll to **Variants** and click **+ Add options like size or color**.
-2. **Option name:** `Pack`
-3. **Option values** (in this order):
-   - `1 Bottle`
-   - `2 Bottles – Save ₹99`
-   - `3 Bottles – Best Value (Save ₹348)`
-4. Click **Done**, then set each variant:
-
-| Variant | Price | Compare-at price | SKU | Weight | Charge tax |
-|---|---|---|---|---|---|
-| 1 Bottle | 449 | 600 | `SM-SSS-100-1` | 200 g | as you do today |
-| 2 Bottles – Save ₹99 | 799 | 1200 | `SM-SSS-100-2` | 400 g | as you do today |
-| 3 Bottles – Best Value (Save ₹348) | 999 | 1800 | `SM-SSS-100-3` | 600 g | as you do today |
-
-Your current SKU is `1000`. Either keep it on the 1-bottle variant or switch to the new SKUs above.
-Check weights against a real packed parcel, because they affect courier charges.
-
-### Inventory (important)
-Shopify counts stock **per variant**, not per bottle. Selling one 3-pack only reduces the 3-pack's stock by 1.
-Pick one of these:
-- **Simple:** set realistic stock on each variant, for example 1 Bottle = 60, 2 Bottles = 20, 3 Bottles = 20 if you have 160 bottles. Top them up as they sell.
-- **Easy, less safe:** untick **Track quantity** on all three variants and watch your real stock yourself.
-
-### Which pack is selected by default
-Shopify pre-selects the **first** variant. To have the 3-pack selected when the page opens, drag it to the top of the variant list:
-`3 Bottles` → `2 Bottles` → `1 Bottle`. Most customers stay on whatever's pre-selected.
-
-### Variant images (optional but recommended)
-Upload a photo of 1, 2 and 3 bottles together and assign each one to its variant. Click a variant, then click its image box.
-
----
-
-## Step 3: Search listing and URL
-
-Scroll to **Search engine listing → Edit**:
+**Search engine listing → Edit:**
 
 | Field | Value |
 |---|---|
-| **Page title** | `Himalayan Sea Salt Spray for Hair Volume \| Spraymax` |
-| **Meta description** | `Spraymax Himalayan sea salt spray adds instant volume and matte texture without stiffness or grease. Paraben & sulfate free. Free shipping across India.` |
-| **URL handle** | `himalayan-sea-salt-spray` (replaces `demo-sea-salt-spray`) |
+| Page title | `Himalayan Sea Salt Spray for Hair Volume \| Spraymax` |
+| Meta description | `Spraymax Himalayan sea salt spray adds instant volume and matte texture without stiffness or grease. Paraben & sulfate free. Free shipping across India.` |
+| URL handle | `himalayan-sea-salt-spray` |
 
-When you change the handle, **keep "Create a URL redirect" ticked** so old links and Google results still work.
-After saving, check your menu and any Instagram or ads links still open the product.
+When you change the handle, **keep "Create a URL redirect" ticked** so the old `demo-sea-salt-spray` link keeps working.
 
 ---
 
-## Step 4: Photos
+## Step 2: Create the Pack of 2
 
-Your current 4 photos are WhatsApp-compressed (`IMG-…-WA00xx.jpg`). Re-upload the originals from your phone or camera. Aim for 6–8 images in this order:
+**Products → Add product**
 
-| # | Shot | Alt text to add |
+| Field | Value |
+|---|---|
+| **Title** | `Spraymax Himalayan Sea Salt Spray – Pack of 2` |
+| **Description** | `<>` (Show HTML), then paste `description-pack-of-2.html` |
+| **Price** | 799 |
+| **Compare-at price** | 1200 |
+| **SKU** | `SM-SSS-100-2` |
+| **Weight** | 400 g (check against a packed parcel) |
+| **Physical product** | ticked |
+| **Inventory** | see "Stock" below |
+| **Product type / Vendor** | `Hair Styling Spray` / `Spraymax` |
+| **Tags** | `sea salt spray, hair volume, bundle` |
+| **Sales channels** | Online Store, plus any others you use |
+| **Status** | **Draft** until you've checked it, then **Active** |
+
+**Search engine listing:**
+
+| Field | Value |
+|---|---|
+| Page title | `Sea Salt Spray Pack of 2 (2 × 100 mL) \| Spraymax` |
+| Meta description | `Get 2 Spraymax Himalayan sea salt sprays for ₹799, ₹400 per bottle. Instant hair volume and matte texture. Free shipping across India.` |
+| URL handle | `himalayan-sea-salt-spray-pack-of-2` |
+
+---
+
+## Step 3: Create the Pack of 3
+
+The fastest way is to open the Pack of 2, click **⋯ → Duplicate**, then change these:
+
+| Field | Value |
+|---|---|
+| **Title** | `Spraymax Himalayan Sea Salt Spray – Pack of 3` |
+| **Description** | paste `description-pack-of-3.html` |
+| **Price** | 999 |
+| **Compare-at price** | 1800 |
+| **SKU** | `SM-SSS-100-3` |
+| **Weight** | 600 g |
+| **Tags** | `sea salt spray, hair volume, bundle, best value` |
+| Page title | `Sea Salt Spray Pack of 3 (3 × 100 mL) \| Spraymax` |
+| Meta description | `Our best value pack: 3 Spraymax Himalayan sea salt sprays for ₹999, just ₹333 per bottle. Save ₹348. Free shipping across India.` |
+| URL handle | `himalayan-sea-salt-spray-pack-of-3` |
+
+---
+
+## Stock
+
+Each product has its **own** stock count. Selling a Pack of 3 does **not** reduce the single bottle's stock, and Shopify can't link them without an app.
+Split your real bottles across the three products. For example, with 150 bottles:
+- Single: 60 bottles → stock **60**
+- Pack of 2: 40 bottles → stock **20**
+- Pack of 3: 50 bottles → stock **16**
+
+Top them up from Shopify as each one sells. If you'd rather not juggle this, untick **Track quantity** and keep an eye on your real stock yourself.
+
+---
+
+## Reviews on the pack pages
+
+Your 14 Judge.me reviews are attached to the single-bottle product, so the new pack pages will start with **0 reviews**. Options:
+- In Judge.me, look for **Product Groups**. It lets several products share one set of reviews, but it may need a paid Judge.me plan. Check in the app.
+- If not, each pack description already links to the single bottle. You can also add a review-carousel or testimonial block on the pack pages in the theme editor.
+
+---
+
+## Showing the packs on the single-bottle page
+
+Your product page already has a **"Pairs well with"** block. Use it to show the packs:
+1. Install Shopify's free **Search & Discovery** app.
+2. **Recommendations → Spraymax Himalayan Sea Salt Spray – 100 mL → Complementary products:** add Pack of 3, then Pack of 2.
+3. "Pairs well with" now shows both packs under Add to cart.
+
+Also add both packs to your **Home page** collection (Products → each pack → Collections), so they show in Catalog and on the homepage.
+
+---
+
+## Photos
+
+Your current photos are WhatsApp-compressed (`IMG-…-WA00xx.jpg`). Re-upload the originals. Use square images, 2048 × 2048 px if you can.
+
+**Single bottle:**
+
+| # | Shot | Alt text |
 |---|---|---|
-| 1 | Bottle on a plain background (hero) | `Spraymax Himalayan Sea Salt Spray 100 mL bottle` |
-| 2 | 3 bottles together, with "₹999 – Save ₹348" | `Spraymax sea salt spray 3 bottle pack` |
-| 3 | Before / after hair | `Hair before and after using Spraymax sea salt spray` |
-| 4 | How to use: Shake, Spray, Style | `How to use Spraymax sea salt spray in 3 steps` |
-| 5 | "What's not in it" icons (no parabens, sulfates…) | `Spraymax is paraben, sulfate and silicone free` |
-| 6 | Ingredients / Himalayan salt close-up | `Spraymax Himalayan sea salt ingredients` |
-| 7 | Screenshot of 2–3 real customer reviews | `Spraymax customer reviews` |
-| 8 | Bottle in hand, to show size | `Spraymax 100 mL bottle size in hand` |
+| 1 | Bottle on a plain background | `Spraymax Himalayan Sea Salt Spray 100 mL bottle` |
+| 2 | Before / after hair | `Hair before and after using Spraymax sea salt spray` |
+| 3 | How to use: Shake, Spray, Style | `How to use Spraymax sea salt spray` |
+| 4 | "What's not in it" icons | `Spraymax is paraben, sulfate and silicone free` |
+| 5 | Back label (ingredients) | `Spraymax sea salt spray ingredients label` |
+| 6 | Real customer review screenshots | `Spraymax customer reviews` |
 
-To add alt text, click an image, then **Add alt text**. Square images at 2048 × 2048 px work best.
+**Pack of 2 / Pack of 3:** the **first image must show 2 or 3 bottles together**, with "Pack of 3 · ₹999 · Save ₹348" on it.
+After that, reuse images 2–6 from the single bottle. Alt text: `Spraymax sea salt spray pack of 3 bottles` (or 2).
 
 ---
 
-## Step 5: Fix theme text (Online Store → Themes → Customize → product page)
+## Theme fixes (Online Store → Themes → Customize → product page)
 
 - **Ingredients section:** change *"selected for max benefits to the **skin**"* to *"…for your **hair**"*.
 - **"TEXTURE: clean / VOLUME: Safe-styling" boxes:** change them to something meaningful, for example `HOLD: Light–Medium` and `FINISH: Matte`.
-- **"Pairs well with":** you only have one product, so hide this block for now.
-- **Variant picker:** set its style to **Buttons / pills** (not a dropdown) so all 3 packs are visible.
-- **Near Add to cart:** add a text block, for example `🚚 Free shipping across India · Dispatched in [X] days · [COD available]`.
+- **Near Add to cart:** add a text block, for example `🚚 Free shipping across India · Secure prepaid checkout (UPI, cards, net banking)`.
 
----
+## Homepage and store settings (Online Store → Preferences)
 
-## Step 6: Homepage and store settings
-
-**Online Store → Preferences:**
 - **Homepage title:** `Spraymax – Himalayan Sea Salt Spray for Hair Volume | India`
 - **Homepage meta description:** `India's Himalayan sea salt spray for instant hair volume and natural texture. Clean formula, no parabens or sulfates. Free shipping India-wide.`
-- **Social sharing image:** upload the hero bottle photo. This is what shows when someone shares your link on WhatsApp or Instagram.
+- **Social sharing image:** upload the hero bottle photo.
 
-**Settings → Policies → Shipping policy:** change "7–14 business days" to your real delivery time.
+Leave the shipping policy as it is.
 
 ---
 
-## Step 7: Check everything
+## Final check
 
-- [ ] Open the product page on your phone. All 3 packs show, prices are right, and the strike-through prices show.
-- [ ] Add each pack to the cart. The cart and checkout show ₹449 / ₹799 / ₹999 with free shipping.
-- [ ] The old link `spraymax.in/products/demo-sea-salt-spray` redirects to the new one.
-- [ ] Judge.me reviews still show on the page.
-- [ ] Place one real test order (cancel and refund it afterwards).
+- [ ] All 3 products show in the Catalog with the right price and strike-through MRP.
+- [ ] The links inside each description open the right pack page.
+- [ ] The old link `spraymax.in/products/demo-sea-salt-spray` redirects to the single bottle.
+- [ ] "Pairs well with" on the single bottle shows both packs.
+- [ ] Add each product to the cart. The checkout shows ₹449 / ₹799 / ₹999 with free shipping and no COD.
+- [ ] Check all three on your phone.
