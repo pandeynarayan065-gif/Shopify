@@ -1,9 +1,8 @@
 # Spraymax: final policies (copy and paste)
 
 Paste these in **Shopify → Settings → Policies**. Each one **replaces** the old policy completely.
-Before you paste, replace the 2 blanks with your real contact details:
+Before you paste, replace the blank with your real support email:
 - `[support@spraymax.in]`: your support email
-- `[+91 XXXXX XXXXX]`: your WhatsApp number
 
 Fees used below: **₹99** to re-ship, **₹100** deducted from refunds on returned parcels, and **₹50** to cancel more than 3 hours after ordering. Change them to your real courier costs if they're different.
 
@@ -42,7 +41,7 @@ You are fully responsible for entering a complete and correct shipping address a
 We ship every order exactly as the address was entered at checkout. We do not edit, guess or complete addresses on your behalf.
 
 **6. Address Changes**
-Address changes are accepted only before your order is dispatched, and only through email at [support@spraymax.in] or WhatsApp at [+91 XXXXX XXXXX]. Once an order has been dispatched, the address cannot be changed for any reason.
+Address changes are accepted only before your order is dispatched, and only by email at [support@spraymax.in]. Once an order has been dispatched, the address cannot be changed for any reason.
 
 **7. Delays or Non-Delivery Due to Address or Phone Issues**
 Our delivery timelines apply only to orders with a complete and correct address. Spraymax is not responsible for any delay, failed delivery or non-delivery caused by:
@@ -67,7 +66,7 @@ An order marked as "Delivered" by the courier to the address entered at checkout
 Orders can be cancelled free of charge within 3 hours of ordering. After that, a ₹50 cancellation charge applies, and once dispatched, orders cannot be cancelled. See our Refund Policy for full details.
 
 **11. Contact**
-For any shipping questions, contact us at [support@spraymax.in] or WhatsApp [+91 XXXXX XXXXX].
+For any shipping questions, contact us at [support@spraymax.in].
 
 ---
 
@@ -84,7 +83,7 @@ We do not accept returns on any orders. Due to the nature of our products, all s
 We will replace or refund your order only if the product arrives damaged or defective, or you received the wrong product.
 
 To be eligible, you must:
-- Contact us within **48 hours of delivery** at [support@spraymax.in] or WhatsApp [+91 XXXXX XXXXX]
+- Contact us within **48 hours of delivery** at [support@spraymax.in]
 - Share a **complete, unedited unboxing video**, starting from the sealed parcel with the shipping label visible
 - Share clear photos of the product and packaging
 
@@ -99,7 +98,7 @@ If the spray nozzle does not work, first try this: remove the spray head, rinse 
 If an order is returned to us because of an incomplete or incorrect address, an unreachable phone number, the customer being unavailable or a refused delivery, the order is handled as per point 8 of our Shipping Policy: re-ship for ₹99, or a refund minus ₹100 for shipping costs.
 
 **5. Cancellations**
-To cancel, contact us by email at [support@spraymax.in] or WhatsApp at [+91 XXXXX XXXXX]. The time of your message is the time of the request.
+To cancel, email us at [support@spraymax.in]. The time of your email is the time of the request.
 - **Within 3 hours of placing your order:** full refund.
 - **More than 3 hours after ordering, but before dispatch:** refund minus a cancellation charge of **₹50**, which covers payment gateway and processing costs.
 - **After dispatch:** cancellation is not possible. Once a cancellation is processed, it cannot be reversed. To get the product, you will need to place a new order.
@@ -120,7 +119,6 @@ Approved refunds are processed within 7 business days to the original payment me
 
 **8. Contact**
 Email: [support@spraymax.in]
-WhatsApp: [+91 XXXXX XXXXX]
 
 ---
 
