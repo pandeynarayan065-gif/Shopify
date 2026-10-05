@@ -5,7 +5,7 @@ Before you paste, replace the 2 blanks with your real contact details:
 - `[support@spraymax.in]`: your support email
 - `[+91 XXXXX XXXXX]`: your WhatsApp number
 
-Fees used below: **₹99** to re-ship, **₹150** deducted from refunds on returned parcels, and **₹50** to cancel more than 3 hours after ordering. Change them to your real courier costs if they're different.
+Fees used below: **₹99** to re-ship, **₹100** deducted from refunds on returned parcels, and **₹50** to cancel more than 3 hours after ordering. Change them to your real courier costs if they're different.
 
 ---
 
@@ -44,7 +44,7 @@ Such orders are not eligible for compensation for the delay.
 **6. Returned Parcels (Undelivered Orders)**
 If the courier returns your parcel to us for any of the reasons in point 5, you may choose only one of the following:
 - **(a) Re-ship:** we will send the order again after you pay a re-shipping fee of ₹99, or
-- **(b) Refund:** we will refund the amount you paid **minus ₹150** to cover forward and return shipping costs.
+- **(b) Refund:** we will refund the amount you paid **minus ₹100** to cover forward and return shipping costs.
 
 You must tell us your choice within 7 days of our message. If we don't hear from you within 7 days, option (b) will be applied automatically. Refunds are processed within 7 business days to the original payment method.
 
@@ -87,7 +87,7 @@ Once your claim is verified, we will send a replacement or issue a refund, at ou
 If the spray nozzle does not work, first try this: remove the spray head, rinse it under warm water for 30 seconds, then refit it. If it still doesn't work within **15 days of delivery**, contact us with a short video of the issue. Once verified, we will send a replacement nozzle or bottle.
 
 **4. Undelivered / Returned Orders**
-If an order is returned to us because of an incomplete or incorrect address, an unreachable phone number, the customer being unavailable or a refused delivery, the order is handled as per point 6 of our Shipping Policy: re-ship for ₹99, or a refund minus ₹150 for shipping costs.
+If an order is returned to us because of an incomplete or incorrect address, an unreachable phone number, the customer being unavailable or a refused delivery, the order is handled as per point 6 of our Shipping Policy: re-ship for ₹99, or a refund minus ₹100 for shipping costs.
 
 **5. Cancellations**
 To cancel, contact us by email at [support@spraymax.in] or WhatsApp at [+91 XXXXX XXXXX]. The time of your message is the time of the request.
@@ -122,4 +122,4 @@ Don't argue. Reply once with the matching policy point and a link, then wait for
 - Shipping Policy: https://spraymax.in/policies/shipping-policy
 - Refund Policy: https://spraymax.in/policies/refund-policy
 
-Example: *"Hi, as per point 6 of our Shipping Policy (link), your parcel was returned due to an incomplete address. You can choose re-ship for ₹99 or a refund of ₹[amount − 150]. Please reply within 7 days."*
+Example: *"Hi, as per point 6 of our Shipping Policy (link), your parcel was returned due to an incomplete address. You can choose re-ship for ₹99 or a refund of ₹[amount − 100]. Please reply within 7 days."*
