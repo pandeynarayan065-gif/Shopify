@@ -5,7 +5,7 @@ Before you paste, replace the 2 blanks with your real contact details:
 - `[support@spraymax.in]`: your support email
 - `[+91 XXXXX XXXXX]`: your WhatsApp number
 
-Fees used below: **₹99** to re-ship and **₹150** deducted from refunds. Change them to your real courier costs if they're different.
+Fees used below: **₹99** to re-ship, **₹150** deducted from refunds on returned parcels, and **₹50** to cancel more than 3 hours after ordering. Change them to your real courier costs if they're different.
 
 ---
 
@@ -54,7 +54,10 @@ An order marked as "Delivered" by the courier to the address entered at checkout
 **8. Other Delays**
 Delays may also occur for reasons beyond our control, including courier or logistics delays, weather, high order volumes and regional or operational restrictions. Spraymax is not responsible for delays caused by such circumstances.
 
-**9. Contact**
+**9. Cancellations**
+Orders can be cancelled free of charge within 3 hours of ordering. After that, a ₹50 cancellation charge applies, and once dispatched, orders cannot be cancelled. See our Refund Policy for full details.
+
+**10. Contact**
 For any shipping questions, contact us at [support@spraymax.in] or WhatsApp [+91 XXXXX XXXXX].
 
 ---
@@ -87,7 +90,12 @@ If the spray nozzle does not work, first try this: remove the spray head, rinse 
 If an order is returned to us because of an incomplete or incorrect address, an unreachable phone number, the customer being unavailable or a refused delivery, the order is handled as per point 6 of our Shipping Policy: re-ship for ₹99, or a refund minus ₹150 for shipping costs.
 
 **5. Cancellations**
-Orders can be cancelled for a full refund only **before dispatch**. Once an order is dispatched, it cannot be cancelled.
+To cancel, contact us by email at [support@spraymax.in] or WhatsApp at [+91 XXXXX XXXXX]. The time of your message is the time of the request.
+- **Within 3 hours of placing your order:** full refund.
+- **More than 3 hours after ordering, but before dispatch:** refund minus a cancellation charge of **₹50**, which covers payment gateway and processing costs.
+- **After dispatch:** cancellation is not possible. Once a cancellation is processed, it cannot be reversed. To get the product, you will need to place a new order.
+
+If Spraymax cancels your order for any reason (for example, stock unavailability), you will receive a full refund with no charges.
 
 **6. Not Eligible for Refund**
 - Change of mind
@@ -95,6 +103,7 @@ Orders can be cancelled for a full refund only **before dispatch**. Once an orde
 - Minor packaging wear during transit that does not affect the product
 - Claims without an unboxing video
 - Requests raised after the time limits above
+- Cancellation requests after dispatch
 - Orders delayed or returned due to address or phone issues (see point 4)
 
 **7. Refund Timeline**
