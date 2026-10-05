@@ -52,7 +52,7 @@ You must tell us your choice within 7 days of our message. If we don't hear from
 An order marked as "Delivered" by the courier to the address entered at checkout is considered delivered. If you have not received an order marked as delivered, you must contact us within 48 hours of the delivery update. We will raise the issue with the courier, but we cannot refund or replace orders delivered to the address you provided.
 
 **8. Other Delays**
-Delays may also occur for reasons beyond our control, including courier or logistics delays, weather, high order volumes and regional or operational restrictions. Spraymax is not responsible for delays caused by such circumstances.
+Delays may also occur for reasons beyond our control, including courier or logistics delays, weather, high order volumes and regional or operational restrictions. Spraymax is not responsible for delays caused by such circumstances. If your order has not arrived within a reasonable time after dispatch, please contact us and we will assist in tracking your shipment.
 
 **9. Cancellations**
 Orders can be cancelled free of charge within 3 hours of ordering. After that, a ₹50 cancellation charge applies, and once dispatched, orders cannot be cancelled. See our Refund Policy for full details.
